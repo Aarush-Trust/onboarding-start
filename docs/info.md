@@ -8,18 +8,23 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+I like ice cream. heheheheh
+Why is this tweaking bruv
 
 Explain how your project works
 
-I like ice cream. heheheheh
+
 
 ## How to test
 
+I use GitHub hahaha
+
 Explain how to use your project
 
-I use GitHub hahaha
+
 ## External hardware
+
+nice....laptop 
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 
-Laptop....nice
